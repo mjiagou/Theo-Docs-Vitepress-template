@@ -50,7 +50,8 @@ head:
 
 ::: tip
 
-- **8折折扣码** <Copy type="tip" label="点击复制折扣码: YNDfPkzi" text="YNDfPkzi" bold />
+<!-- - **8折折扣码** <Copy type="tip" label="点击复制折扣码: YNDfPkzi" text="YNDfPkzi" bold /> -->
+
 - 季付**9**折/半年**85**折/年付**8**折 配合折扣码折上折，最高可达**64**折
 - **新手建议**：轻度使用选 **Lite**，日常流媒体与 AI 工具推荐 **Basic / Standard**。
 
