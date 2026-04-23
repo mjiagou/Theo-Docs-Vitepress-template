@@ -85,14 +85,14 @@ export const Aside_Data: AsideItem = [
   //   link: 'https://itheo.top/fatcat',
   //   rel: 'sponsored noreferrer'
   // },
-  {
-    image: 'https://i.theojs.cn/logo/echo_logo.webp',
-    promo: 'Echo 特惠',
-    info1: '月/季/半年付<span class="promo-text"> 8折: YNDfPkzi </span>',
-    info2: '3年付更可享受 <span class="promo-text"> 48折 </span>',
-    link: 'https://itheo.top/echo',
-    rel: 'sponsored noreferrer'
-  },
+  // {
+  //   image: 'https://i.theojs.cn/logo/echo_logo.webp',
+  //   promo: 'Echo 特惠',
+  //   info1: '月/季/半年付<span class="promo-text"> 8折: YNDfPkzi </span>',
+  //   info2: '3年付更可享受 <span class="promo-text"> 48折 </span>',
+  //   link: 'https://itheo.top/echo',
+  //   rel: 'sponsored noreferrer'
+  // },
   {
     image: 'https://i.theojs.cn/logo/flyingbird.webp',
     promo: '飞鸟机场(FlyingBird)特惠',
@@ -141,6 +141,12 @@ export const Aside_Data: AsideItem = [
     image: 'https://i.theojs.cn/logo/naiyun_logo.webp',
     promo: '奈云(NaiYun)',
     link: 'https://itheo.top/naiyun',
+    rel: 'sponsored noreferrer'
+  },
+  {
+    image: 'https://i.theojs.cn/logo/echo_logo.webp',
+    promo: 'Echo',
+    link: 'https://itheo.top/echo',
     rel: 'sponsored noreferrer'
   },
   {
