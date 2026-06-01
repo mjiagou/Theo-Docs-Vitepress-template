@@ -4,8 +4,15 @@ export const Aside_Data: AsideItem = [
   {
     image: 'https://i.theojs.cn/logo/sogo.webp',
     promo: 'Sogo云 8 折特惠',
-    info1: '全场套餐 <span class="promo-text"> 8折: SOGO168</span>',
+    info1: '全场套餐 <span class="promo-text"> 8折: SOGO28</span>',
     link: 'https://itheo.top/sogo',
+    rel: 'sponsored noreferrer'
+  },
+  {
+    image: 'https://i.theojs.cn/logo/1fly_logo.webp',
+    promo: '一翻云(1fly) 8 折特惠',
+    info1: '全场套餐 <span class="promo-text"> 8折: 1FLYYUN</span>',
+    link: 'https://itheo.top/1fly',
     rel: 'sponsored noreferrer'
   },
   {
@@ -14,6 +21,13 @@ export const Aside_Data: AsideItem = [
     info1: '全场套餐 <span class="promo-text"> 85折: qyt85 </span>',
     info2: '3年以上<span class="promo-text"> 48折: qyt80 </span>',
     link: 'https://itheo.top/qyt',
+    rel: 'sponsored noreferrer'
+  },
+  {
+    image: 'https://i.theojs.cn/logo/yuzhou_logo.webp',
+    promo: '宇宙云(YuZhou)特惠',
+    info1: '全场套餐 <span class="promo-text"> 8折: YUZHOU553 </span>',
+    link: 'https://itheo.top/yuzhou',
     rel: 'sponsored noreferrer'
   },
   // {
@@ -119,6 +133,12 @@ export const Aside_Data: AsideItem = [
     image: 'https://i.theojs.cn/airport/yinyun_logo.webp',
     promo: '隐云(YinYun)',
     link: 'https://itheo.top/yinyun',
+    rel: 'sponsored noreferrer'
+  },
+  {
+    image: 'https://i.theojs.cn/logo/2mao_logo.webp',
+    promo: '二猫云(2mao)',
+    link: 'https://itheo.top/2mao',
     rel: 'sponsored noreferrer'
   },
   // {
