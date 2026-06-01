@@ -11,7 +11,7 @@ head:
 
 ![Hero SMS](https://i.theojs.cn/docs/hero-sms-og.webp)
 
-## Hero SMS 是什么？ <Copy type="tip" label="点击复制折扣码: theo85" text="theo85" bold />
+## Hero SMS 是什么？
 
 **Hero SMS** 是一个提供「**国外手机号码接收短信验证码**」的在线接码平台，覆盖 **200+ 国家和地区**，支持注册 **ChatGPT / OpenAI / WhatsApp / Telegram / Google / 各类海外网站与 App**。
 
@@ -24,7 +24,7 @@ head:
 
 一句话总结：**Hero SMS 主打稳定到码，而不是噱头。**
 
-## Hero SMS 核心优势 <Copy type="tip" label="点击复制折扣码: theo85" text="theo85" bold />
+## Hero SMS 核心优势
 
 - 📩 **到码速度快**：大多数服务 10–30 秒内收到验证码
 - 🌍 **国家选择多**：支持大量冷门国家，风控压力低
@@ -39,7 +39,7 @@ head:
   rel="sponsored noreferrer"
 />
 
-## Hero SMS 使用教程 <Copy type="tip" label="点击复制折扣码: theo85" text="theo85" bold />
+## Hero SMS 使用教程
 
 ### 一、注册与充值
 

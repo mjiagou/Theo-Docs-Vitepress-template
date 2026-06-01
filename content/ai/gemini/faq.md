@@ -16,7 +16,7 @@ description: 汇总 Gemini 国内常见问题与解决方案，包括访问、�
 ::: tip 解决方案
 
 - 使用国内镜像站，无需翻墙即可访问：  
-  **[使用国内镜像站](/ai/gemini/china-access#方案一-使用国内-gemini-镜像网站-无需翻墙-强烈推荐)**
+  **[Gemini 国内镜像入口（可直接使用）](/serve/sharing/nf-video#gemini-pro-国内镜像)**
 - 具备条件可使用科学上网访问官网：  
   **[翻墙访问方案](/ai/gemini/china-access#方案二-注册并使用-gemini-官网-需要一定技术门槛)**
 - 直接获取现成账号 / Gemini Pro，免注册：  

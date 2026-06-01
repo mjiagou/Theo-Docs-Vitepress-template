@@ -42,8 +42,7 @@ description: Gemini 国内怎么使用？本文系统介绍 Gemini 在国内的�
 
 如果你只是想**立刻体验 Gemini 的核心能力**，不想处理翻墙、注册、验证等步骤，可以直接使用国内可访问的镜像入口：
 
-- **[青龙(QingLong) AI镜像中转站（国内可直接使用）](/ai/mirror/qinglong.md)**
-- **[Gemini 国内镜像入口（可直接使用）](/serve/sharing/nf-video#gemini-pro-国内镜像)**
+👉 **[Gemini 国内镜像入口（可直接使用）](/serve/sharing/nf-video#gemini-pro-国内镜像)**
 
 > 国内直连 ｜ 中文界面 ｜ 支持长期稳定使用
 

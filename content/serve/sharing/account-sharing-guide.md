@@ -1,10 +1,6 @@
 ---
 title: 账号合租指南 - 稳定好用的Netflix共享平台推荐
 description: 银河录像局、账号星球等优质账号合租平台推荐，助您轻松共享Netflix、HBO Max、Disney+等海外流媒体账号，畅享高清影视内容与优质娱乐体验，提升观影乐趣。
-head:
-  - - meta
-    - name: keywords
-      content: 账号合租平台, Netflix合租平台推荐, 流媒体账号共享, 奈飞账号购买, Netflix拼车, Disney+账号共享, HBO Max账号, 合租网站推荐, 流媒体会员便宜购买
 ---
 
 # 账号合租指南
@@ -13,11 +9,11 @@ head:
 
 <!-- #region price -->
 
-|                 合租平台                 |                                                 官方网站                                                  |                         扫码直达                         |
-| :--------------------------------------: | :-------------------------------------------------------------------------------------------------------: | :------------------------------------------------------: |
-|    [账号星球](/serve/sharing/acc.md)     | <Pill icon="mdi:link-variant" name="官网直达" link="https://itheo.top/acc" rel="sponsored noreferrer" />  |      ![acc =80x](https://i.theojs.cn/docs/acc.webp)      |
-|    [NIKE小店](/serve/sharing/nike.md)    | <Pill icon="mdi:link-variant" name="官网直达" link="https://itheo.top/nike" rel="sponsored noreferrer" /> |    ![acc =80x](https://i.theojs.cn/docs/nike_qr.webp)    |
-| [银河录像局](/serve/sharing/nf-video.md) |  <Pill icon="mdi:link-variant" name="官网直达" link="https://itheo.top/yh" rel="sponsored noreferrer" />  | ![nf-video =80x](https://i.theojs.cn/docs/nf-video.webp) |
+|                 合租平台                 |                                                 官方网站                                                  |          折扣码           |                         扫码直达                         |
+| :--------------------------------------: | :-------------------------------------------------------------------------------------------------------: | :-----------------------: | :------------------------------------------------------: |
+|    [账号星球](/serve/sharing/acc.md)     | <Pill icon="mdi:link-variant" name="官网直达" link="https://itheo.top/acc" rel="sponsored noreferrer" />  |             -             |      ![acc =80x](https://i.theojs.cn/docs/acc.webp)      |
+|    [NIKE小店](/serve/sharing/nike.md)    | <Pill icon="mdi:link-variant" name="官网直达" link="https://itheo.top/nike" rel="sponsored noreferrer" /> |             -             |    ![acc =80x](https://i.theojs.cn/docs/nike_qr.webp)    |
+| [银河录像局](/serve/sharing/nf-video.md) |  <Pill icon="mdi:link-variant" name="官网直达" link="https://itheo.top/yh" rel="sponsored noreferrer" />  | <Copy text="Theo" bold /> | ![nf-video =80x](https://i.theojs.cn/docs/nf-video.webp) |
 
 <Links
   :grid="3"
@@ -85,5 +81,3 @@ head:
 - 专业的合租网站或应用
 - 社交媒体群组
 - 朋友或家庭间的私下合租
-
-<!--@include: @/bottom.md-->
